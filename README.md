@@ -1,6 +1,5 @@
 # IOT-Enabled-Air-Purification-And-Ventilation-System
 This project is an IoT-based smart air quality monitoring and purification system designed to detect harmful gases, monitor temperature and humidity, and automatically control a ventilation fan to maintain healthy indoor air. It integrates multiple sensors, real-time data display, and intelligent fan control using PWM on an ESP32 microcontroller.
-
 🚀 Features
 📊 Real-Time Air Quality Monitoring
 Uses MQ2, MQ7, MQ135, SDS011, and DHT22 sensors to measure:
